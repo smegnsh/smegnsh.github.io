@@ -1,0 +1,9 @@
+{
+  "tabs": [
+    {"id": "teaching",    "title": "Teaching",    "content": "<p>Courses, syllabi, philosophy.</p>"},
+    {"id": "research",    "title": "Research",    "content": "<p>Research areas, collaborators.</p>"},
+    {"id": "about",       "title": "About Me",    "content": "<p>Bio, education, contact.</p>"},
+    {"id": "publications","title": "Publications","content": "<ul><li>Paper A (2025)</li></ul>"},
+    {"id": "projects",    "title": "Projects",    "content": "<p>Ongoing & past projects.</p>"}
+  ]
+}
